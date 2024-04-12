@@ -1,13 +1,13 @@
 
 
-
+import Rednos from './Rednos'
 
 function App() {
 
 
   return (
     <>
-      <h1>Hello Vite+React</h1>
+      <Rednos />
     </>
   )
 }
