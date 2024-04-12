@@ -1,17 +1,12 @@
 
 import './App.css';
+import Rednos from './Rednos';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        
-        <p>
-          Rohit Shinde Here
-        </p>
-        
-      </header>
-    </div>
+    <>
+      <Rednos />
+    </>
   );
 }
 
